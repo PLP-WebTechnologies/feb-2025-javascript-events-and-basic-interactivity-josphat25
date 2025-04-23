@@ -187,8 +187,11 @@ button.addEventListener("mouseup", () => {
   
 # File Structure Recap
 index.html         # Layout & structure
+
 style.css          # Styles & animations
+
 script.js          # Interactivity & effects
+
 images/            # Your image gallery lives here
 
 # index.html
